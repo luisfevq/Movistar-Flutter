@@ -1,0 +1,1 @@
+enum codeStatus { success, error }
